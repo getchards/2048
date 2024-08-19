@@ -7,7 +7,7 @@ This project is a 2048 game implementation, showcasing the use of modern web tec
 **Git:** For version control.<br>
 **SCSS:** CSS preprocessor.
 
-[DEMO LINK](https://getchards.github.io/2048_game/)
+[DEMO LINK](https://getchards.github.io/2048/)
 
 **Instructions to Run Locally**<br><br>
 1.Clone the repository from GitHub: **-git clone https://github.com/username/repository.git**<br>
